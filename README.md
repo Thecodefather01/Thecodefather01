@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Currently working on an AI SaaS<br>Learning Langchain and advanced AI for AI<br>Learning and developing Django as backend<br>Learning NextJS (React and 3JS)<br>
 
 
